@@ -159,25 +159,25 @@ apply plugin: 'com.google.gms.google-services'
 ![](images/image.png)
 
 Пустой список заметок:
-![](images/image copy.png)
+![](images/imagecopy.png)
 
 Создание заметки:
-![](images/image copy 2.png)
+![](images/imagecopy2.png)
 
 Список заметок:
-![](images/image copy 3.png)
+![](images/imagecopy3.png)
 
 Редактирование заметки:
-![](images/image copy 4.png)
+![](images/imagecopy4.png)
 
 Firebase Authentication:
-![](images/image copy 5.png)
+![](images/imagecopy5.png)
 
 Firebase Firestore:
-![](images/image copy 6.png)
+![](images/imagecopy6.png)
 
 Security Rules:
-![](images/image copy 7.png)
+![](images/imagecopy7.png)
 
 ## Реализованный функционал
 
